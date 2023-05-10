@@ -1,0 +1,9 @@
+{
+  "_id": "ObjectId",
+  "text": "String",
+  "userId": "ObjectId",
+  "postId": "ObjectId",
+  "path": "String",
+  "createdAt": "Date",
+  "updatedAt": "Date"
+}
